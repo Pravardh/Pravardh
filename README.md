@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pravardh
-- 👀 I’m interested in Game Development/Game Engien Development
-- 🌱 I’m currently learning OpenGL
+- 👀 I’m interested in Game Development/Game Engine Development
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me: pravardhcv@gmail.com
 
 <!---
